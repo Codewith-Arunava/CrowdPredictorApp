@@ -3,7 +3,7 @@
 An AI-powered crowd prediction web application that analyzes data to estimate crowd density and provide intelligent insights.
 The system combines machine learning models with a full-stack web architecture to deliver predictions through a user-friendly interface.
 
-📌 Features
+📌 Features 
 
 ✨ Machine Learning–based crowd prediction
 ⚡ Fast backend APIs for processing data
