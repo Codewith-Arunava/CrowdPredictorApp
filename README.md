@@ -18,7 +18,7 @@ CrowdPredictorApp
 ├── frontend/         # Web interface
 ├── docker-compose.yml
 ├── .gitignore
-└── README.md
+└── README.md 
 ⚙️ Tech Stack
 🧠 Machine Learning
 
