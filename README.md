@@ -11,7 +11,7 @@ The system combines machine learning models with a full-stack web architecture t
 🐳 Docker support for easy deployment 
 📊 Data analysis and prediction workflow
  
-🏗️ Project Architecture   
+🏗️ Project Architecture    
 CrowdPredictorApp   
 │
 ├── backend/          # FastAPI / ML backend
