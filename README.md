@@ -21,7 +21,7 @@ CrowdPredictorApp
 └── README.md 
 ⚙️ Tech Stack
 🧠 Machine Learning
- 
+  
 Python
 
 NumPy
