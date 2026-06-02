@@ -15,7 +15,7 @@ The system combines machine learning models with a full-stack web architecture t
 CrowdPredictorApp   
 │
 ├── backend/          # FastAPI / ML backend
-├── frontend/         # Web interface
+├── frontend/         # Web interface 
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md 
