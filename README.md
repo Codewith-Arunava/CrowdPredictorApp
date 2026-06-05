@@ -20,7 +20,7 @@ CrowdPredictorApp
 ├── .gitignore
 └── README.md 
 ⚙️ Tech Stack
-🧠 Machine Learning
+🧠 Machine Learning   
   
 Python
 
