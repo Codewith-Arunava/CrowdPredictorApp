@@ -12,7 +12,7 @@ The system combines machine learning models with a full-stack web architecture t
 📊 Data analysis and prediction workflow 
  
 🏗️ Project Architecture    
-CrowdPredictorApp   
+CrowdPredictorApp    
 │
 ├── backend/          # FastAPI / ML backend
 ├── frontend/         # Web interface 
