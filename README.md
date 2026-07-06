@@ -4,7 +4,7 @@ An AI-powered crowd prediction web application that analyzes data to estimate cr
 The system combines machine learning models with a full-stack web architecture to deliver predictions through a user-friendly interface.
 
 📌 Features   
-  
+   
 ✨ Machine Learning–based crowd prediction    
 ⚡ Fast backend APIs for processing data
 🖥️ Interactive frontend interface 
