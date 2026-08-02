@@ -19,7 +19,7 @@ CrowdPredictorApp
 ├── docker-compose.yml
 ├── .gitignore
 └── README.md 
-⚙️ Tech Stack
+⚙️ Tech Stack 
 🧠 Machine Learning   
   
 Python
