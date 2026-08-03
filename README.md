@@ -16,7 +16,7 @@ CrowdPredictorApp
 │  
 ├── backend/          # FastAPI / ML backend 
 ├── frontend/         # Web interface 
-├── docker-compose.yml
+├── docker-compose.yml 
 ├── .gitignore
 └── README.md 
 ⚙️ Tech Stack 
