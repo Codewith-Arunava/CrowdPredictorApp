@@ -6,7 +6,7 @@ The system combines machine learning models with a full-stack web architecture t
 📌 Features   
    
 ✨ Machine Learning–based crowd prediction    
-⚡ Fast backend APIs for processing data
+⚡ Fast backend APIs for processing data 
 🖥️ Interactive frontend interface  
 🐳 Docker support for easy deployment   
 📊 Data analysis and prediction workflow      
