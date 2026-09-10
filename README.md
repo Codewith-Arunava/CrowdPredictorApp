@@ -23,7 +23,7 @@ CrowdPredictorApp
 🧠 Machine Learning   
   
 Python
-
+ 
 NumPy
 
 Pandas
